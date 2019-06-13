@@ -1,20 +1,20 @@
 {
-    "name": "webklex/laravel-pdfmerger",
+    "name": "dangex/laravel-pdfmerger",
     "type": "library",
     "description": "Generic PDF merger for Laravel",
     "keywords": [
-        "webklex",
+        "dangex",
         "laravel",
         "pdf",
         "merger",
         "pdfmerger"
     ],
-    "homepage": "https://github.com/webklex/pdfmerger",
+    "homepage": "https://github.com/dangex/laravel-pdfmerger",
     "license": "MIT",
     "authors": [
         {
-            "name": "Malte Goldenbaum",
-            "email": "github@webklex.com",
+            "name": "Daniel Bautista",
+            "email": "danielbaumant@gmail.com",
             "role": "Developer"
         }
     ],
